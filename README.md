@@ -6,7 +6,7 @@ I'm M.Furkan -my friends call me MFG, you can also- from Turkey, and I do and le
 ## Skills and Experience
 * ⚛ Java - Spring
 * ⚛ SAPUI5, JavaScript
-* 💻  HTML , CSS
+* 💻  HTML, CSS
 
 - 🌱 I’m currently learning Java with Spring Boot
 - 🤔 I’m looking for help with fundamentals about Java and Spring
@@ -21,4 +21,3 @@ I'm M.Furkan -my friends call me MFG, you can also- from Turkey, and I do and le
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=furkangerem&show_icons=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=furkangerem)  
-
