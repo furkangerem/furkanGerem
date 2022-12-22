@@ -9,7 +9,7 @@ I'm M.Furkan -my friends call me MFG, you can also- from Turkey, and I do and le
 * 💻  HTML, CSS
 
 - 🌱 I’m currently learning Java with Spring Boot
-- 🤔 I’m looking for help with fundamentals about Java and Spring
+- 🙏 I’m looking for help with fundamentals about Java and Spring
 - 📫 How to reach me: mfurkangerem@gmail.com
 
 ### Connections and Statistics 
