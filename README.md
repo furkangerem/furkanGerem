@@ -15,6 +15,4 @@ Hey, I'm Furkan from Türkiye, and I do and learn coding. I really enjoy learnin
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=furkangerem)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=furkangerem&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=furkangerem)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=furkangerem&show_icons=true)
