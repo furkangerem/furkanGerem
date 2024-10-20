@@ -1,6 +1,6 @@
 ![Software Developer](https://yt3.ggpht.com/uwp6dGJl-Osax8drrozn_I1QDHrSubFp95EpQvT4Lruen3ooi8QTmcaFsOCIF7zp4936AdkuzAs=w2120)
 
-# M.Furkan GEREM
+# Furkan Gerem
 Hey, I'm Furkan from Türkiye, and I do and learn coding. I really enjoy learning and languages and frameworks.
 
 ## Skills and Experience
